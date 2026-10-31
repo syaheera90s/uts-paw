@@ -1,10 +1,98 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Anggrek Bulan" ,
+    "kategori": "Tumbuhan Epifit",
+    "namaLatin": "Phalaenopsis amabilis",
+    "frekuensiSiram": "3 hari sekali" ,
+    "kebutuhanCahaya": "Cahaya teduh" 
+  },
+  {
+    "id": "2",
+    "judul": "Kembang Sepatu" ,
+    "kategori": "Tumbuhan Semak",
+    "namaLatin": "Hibicus rosa-sinensis",
+    "frekuensiSiram": "1x sehari" ,
+    "kebutuhanCahaya": "Cahaya penuh"
+  },
+  {
+    "id": "3",
+    "judul": "Kemuning" ,
+    "kategori": "Tumbuhan Perdu",
+    "namaLatin": "Murraya paniculata",
+    "frekuensiSiram": "1x sehari" ,
+    "kebutuhanCahaya": "Cahaya penuh"
+  },
+  {
+    "id": "4",
+    "judul": "Mawar" ,
+    "kategori": "Tumbuhan Perdu",
+    "namaLatin": "Rosa",
+    "frekuensiSiram": "1x sehari" ,
+    "kebutuhanCahaya": "Cahaya penuh"
+  },
+  {
+    "id": "5",
+    "judul": "Melati" ,
+    "kategori": "Tumbuhan Merambat",
+    "namaLatin": "Jasminum sambak",
+    "frekuensiSiram": "1x sehari" ,
+    "kebutuhanCahaya": "Cahaya penuh"
+  },
+  {
+    "id": "6",
+    "judul": "Krisan" ,
+    "kategori": "Tumbuhan Semak",
+    "namaLatin": "Chrysanthemum indicum",
+    "frekuensiSiram": "1x sehari" ,
+    "kebutuhanCahaya": "Cahaya parsial"
+  },
+  {
+    "id": "7",
+    "judul": "Tulip" ,
+    "kategori": "Tumbuhan Umbi",
+    "namaLatin": "Tulipa",
+    "frekuensiSiram": "2 hari sekali" ,
+    "kebutuhanCahaya": "Cahaya parsial"
+  },
+  {
+    "id": "8",
+    "judul": "Bunga matahari" ,
+    "kategori": "Tumbuhan Semusim",
+    "namaLatin": "Helianthus annuus",
+    "frekuensiSiram": "1x sehari" ,
+    "kebutuhanCahaya": "Cahaya penuh"
+  },
+  {
+    "id": "9",
+    "judul": "Bougenville" ,
+    "kategori": "Tumbuhan merambat",
+    "namaLatin": "Bougainvillea spectabilis",
+    "frekuensiSiram": "2 hari sekali" ,
+    "kebutuhanCahaya": "Cahaya penuh"
+  },
+  {
+    "id": "10",
+    "judul": "Lavender" ,
+    "kategori": "Tumbuhan semak",
+    "namaLatin": "Lavandula angustifolia",
+    "frekuensiSiram": "2 hari sekali" ,
+    "kebutuhanCahaya": "Cahaya penuh"
+  },
+  {
+    "id": "11",
+    "judul": "Euphorbia" ,
+    "kategori": "Tumbuhan sukulen",
+    "namaLatin": "Euphorbia milii",
+    "frekuensiSiram": "4 hari sekali" ,
+    "kebutuhanCahaya": "Cahaya penuh"
+  },
+  {
+    "id": "12",
+    "judul": "Kaktus" ,
+    "kategori": "Tumbuhan kaktus",
+    "namaLatin": "Cactaceae",
+    "frekuensiSiram": "2 minggu sekali" ,
+    "kebutuhanCahaya": "Cahaya penuh"
   }
 ]
