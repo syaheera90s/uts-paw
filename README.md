@@ -65,7 +65,7 @@ Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Ke
 
 # Nama Aplikasi
 
-Nama: Najwa Syahirah Rosyan
+nama: Najwa Syahirah Rosyan
 NIM: 123140178
 Kelas: RB
 Tema: Koleksi Tanaman Hias
