@@ -62,20 +62,24 @@ Penilaian akhir selalu memakai `grader/` dan `shared/` versi repo induk, jadi me
 
 Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Kerangka berikut boleh dipakai:
 
-```markdown
+
 # Nama Aplikasi
 
-Nama: ...
-NIM: ...
-Kelas: ...
-Tema: ...
-Deployment: https://USERNAME.github.io/uts-paw/
+Nama: Najwa Syahirah Rosyan
+NIM: 123140178
+Kelas: RB
+Tema: Koleksi Tanaman Hias
+Deployment: https://syaheera90s.github.io/uts-paw/
 
-![Tangkapan layar beranda](docs/beranda.png)
+![Tangkapan layar beranda](document/uts-paw/beranda-utspaw.png)
+
 
 ## Fitur
-
-- ...
+-    Beranda
+-    Koleksi Tanaman Hias
+-    Tambah Koleksi Tanaman
+-    Statistik Jumlah Koleksi Tanaman
+-    Tentang Author
 
 ## Menjalankan secara lokal
 
@@ -83,7 +87,3 @@ cd app
 npm install
 npm run dev
 
-## Konsep React yang dipakai
-
-- ...
-```
