@@ -66,7 +66,7 @@
   {
     "id": "9",
     "judul": "Bougenville" ,
-    "kategori": "Tumbuhan merambat",
+    "kategori": "Tumbuhan Merambat",
     "namaLatin": "Bougainvillea spectabilis",
     "frekuensiSiram": "2 hari sekali" ,
     "kebutuhanCahaya": "Cahaya penuh"
@@ -74,7 +74,7 @@
   {
     "id": "10",
     "judul": "Lavender" ,
-    "kategori": "Tumbuhan semak",
+    "kategori": "Tumbuhan Semak",
     "namaLatin": "Lavandula angustifolia",
     "frekuensiSiram": "2 hari sekali" ,
     "kebutuhanCahaya": "Cahaya penuh"
@@ -82,7 +82,7 @@
   {
     "id": "11",
     "judul": "Euphorbia" ,
-    "kategori": "Tumbuhan sukulen",
+    "kategori": "Tumbuhan Sukulen",
     "namaLatin": "Euphorbia milii",
     "frekuensiSiram": "4 hari sekali" ,
     "kebutuhanCahaya": "Cahaya penuh"
@@ -90,7 +90,7 @@
   {
     "id": "12",
     "judul": "Kaktus" ,
-    "kategori": "Tumbuhan kaktus",
+    "kategori": "Tumbuhan Kaktus",
     "namaLatin": "Cactaceae",
     "frekuensiSiram": "2 minggu sekali" ,
     "kebutuhanCahaya": "Cahaya penuh"

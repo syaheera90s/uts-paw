@@ -29,11 +29,11 @@ return (
       <dl>
         <dt>Kategori</dt>
         <dd>{item.kategori}</dd>
-        <dt>namaLatin</dt>
+        <dt>Nama Latin</dt>
         <dd>{item.namaLatin}</dd>
-        <dt>frekuensiSiram</dt>
+        <dt>Frekuensi Siram</dt>
         <dd>{item.frekuensiSiram}</dd>
-        <dt>kebutuhanCahaya</dt>
+        <dt>Kebutuhan Cahaya</dt>
         <dd>{item.kebutuhanCahaya}</dd>
       </dl>
       <div className="aksi">

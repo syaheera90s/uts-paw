@@ -12,4 +12,4 @@ export default function useLocalStorage(kunci, nilaiAwal) {
   }, [kunci, nilai])
 
   return [nilai, setNilai]
-}
+} 

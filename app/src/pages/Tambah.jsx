@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom'
 import useKoleksi from '../hooks/useKoleksi.js'
 import './Tambah.css'
 
-const AWAL = { judul: '', kategori: 'Kuliah', tenggat: '', prioritas: 'sedang' }
+const AWAL = { judul: '', kategori: '', namaLatin: '', frekuensiSiram: '', kebutuhanCahaya:'' }
 
 export default function Tambah() {
   const { tambah } = useKoleksi()
@@ -33,32 +33,28 @@ export default function Tambah() {
 
       <label htmlFor="kategori">Kategori</label>
       <select id="kategori" name="kategori" value={form.kategori} onChange={ubah}>
-        <option>id</option>
-        <option>judul</option>
-        <option>kategori</option>
-        <option>namaLatin</option>
-        <option>frekuensiSiram</option>
-        <option>kebutuhanCahaya</option>
-      </select>
-
-      <label htmlFor="namaLatin">namaLatin</label>
-      <input id="namaLatin" name="namaLatin" type="date" value={form.namaLatin} onChange={ubah} />
-
-      <label htmlFor="frekuensiSiram">frekuensiSiram</label>
-      <select id="frekuensiSiram" name="frekuensiSiram" value={form.frekuensiSiram} onChange={ubah}>
-        <option>id</option>
-        <option>judul</option>
-        <option>kategori</option>
-        <option>namaLatin</option>
-        <option>frekuensiSiram</option>
-        <option>kebutuhanCahaya</option>
-      </select>
+        <option>Merambat</option>
+        <option>Perdu</option>
+        <option>Semak</option>
+        <option>Sukulen</option>
+        <option>Epifit</option>
+        <option>Kaktus</option>
+        <option>Umbi</option>
+        <option>Semusim</option>
         
-      <label htmlFor="kebutuhanCahaya">kebutuhanCahaya</label>
+      </select>
+
+      <label htmlFor="namaLatin">Nama Latin</label>
+      <input id="namaLatin" name="namaLatin" value={form.namaLatin} onChange={ubah} />
+
+      <label htmlFor="frekuensiSiram">Frekuensi Siram</label>
+     <input id="frekuensiSiram" name="frekuensiSiram" value={form.frekuensiSiram} onChange={ubah} />
+        
+      <label htmlFor="kebutuhanCahaya">Kebutuhan Cahaya</label>
       <select id="kebutuhanCahaya" name="kebutuhanCahaya" value={form.kebutuhanCahaya} onChange={ubah}>
-        <option value="rendah">Rendah</option>
-        <option value="sedang">Sedang</option>
-        <option value="tinggi">Tinggi</option>
+        <option value="penuh">Penuh</option>
+        <option value="parsial">Parsial</option>
+        <option value="teduh">Teduh</option>
       </select>
 
       <button type="submit">Simpan</button>
